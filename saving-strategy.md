@@ -1,0 +1,1 @@
+save until have 6 months, ideally a year of money to live off. then add to an index fund

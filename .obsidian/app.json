@@ -1,0 +1,22 @@
+{
+  "obsidianCss": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "spellcheckDictionary": [
+    "finalising",
+    "radiative",
+    "minimise"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 82
+  },
+  "fileSortOrder": "byCreatedTime"
+}

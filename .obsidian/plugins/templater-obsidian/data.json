@@ -1,0 +1,15 @@
+{
+  "command_timeout": 5,
+  "template_folder": "templates",
+  "templates_pairs": [
+    [
+      "{{Coytrahen_weather}}",
+      "powershell ((Invoke-WebRequest -UseBasicParsing -Uri wttr.in/Coytrahen?format=4).Content)"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "syntax_highlighting": true,
+  "locale": "en"
+}

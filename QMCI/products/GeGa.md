@@ -1,0 +1,4 @@
+-	mount gega chips [[todo]] #ThisWeek
+	- assess epoxy
+	- assemble equipment
+	- check with peter about use of his equipment 

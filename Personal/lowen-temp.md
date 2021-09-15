@@ -1,0 +1,1 @@
+Temperature 38.3 at 11pm on 2020-12-28 1 week after MMR vaccine

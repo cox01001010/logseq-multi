@@ -1,0 +1,7 @@
+- [[2021-01-22]] [[peter-ade]] explains the progress he has made with his thermal measurements for his filters
+	-	originally seeing massive temperature rise on a big piece polypropolene that was stretched like a filter and mounted on cold plate
+		-	thermometers across face
+		-	cooled to 77K
+		-	~50 measurements later, differing combinations of thermal shaders, filter only rises slightly higher than 77K
+		-	peter still feels like he has a progress to make and hasn't found the optimum configuration
+		-	only really vital for large diameter filters

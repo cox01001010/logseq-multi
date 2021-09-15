@@ -1,0 +1,10 @@
+{
+	"folders": [],
+	"settings": {
+		"files.defaultLanguage": "markdown",
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+		"vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+		"foam.edit.linkReferenceDefinitions": "withExtensions",
+		"foam.openDailyNote.directory": "dailies"
+	}
+}

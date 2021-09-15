@@ -1,0 +1,115 @@
+<h1 id="wisconsin">1934 Wisconsin</h1>
+<h2 id="customer-and-order-details">Customer and Order Details</h2>
+<p> ## Hardware Setup and References </p>
+<table>
+<thead>
+<tr class="header">
+<th>Item / Correct at Date</th>
+<th>[[2021-02-15]]</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Channel</td>
+<td>A</td>
+</tr>
+<tr class="even">
+<td>PT Serial #</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1st Filter</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1st Aperture</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2nd Filter</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2nd Aperture</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cone type</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cone Filter</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cone Aperture</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Detector</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Distance</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Isolation</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1st Stage Plate Diode</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2nd Head Diode</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2nd Stage Plate Diode</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Detector Diode</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="temperature-measurements">Temperature Measurements</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Location / Load</th>
+<th>300K / (K)</th>
+<th>Brass Bank / (K)</th>
+<th>N2 / (K)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Detector Block</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cold Plate</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2nd Head</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1st Shield</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>   </p>

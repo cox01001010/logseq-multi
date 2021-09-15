@@ -1,0 +1,46 @@
+Experiment Setup:
+
+AVS47 to measure device resistance.
+LakeShore TC340 to monitor and control temperature of device block.
+Analog ouputs of AVS and LS monitored using NI PXI box and scaled using LV program.
+Measure R, ramp T.
+
+**************************************************************************
+File String Format:
+Device_OpticalConfiguration_Measurement_YYYYMMDD_HHMMSS_AVSChannel_AVSExcitation_AVSRange_LShoreAnalogHigh_LShoreAnalogLow_LShoreRamp?_LshoreRampRate_LShoreTargetTemp_DesignType_AbsorberMaterial_AbsorberSize_AbsorberSide
+
+AVS Channel: 0-7
+AVS Excitation:  0-7, where
+0 = 0
+1 = 3uV
+2 = 10uV
+3 = 30uV
+4 = 100uV
+5 = 300uV
+6 = 1mV
+7 = 3mV
+AVS Range:  0-7, where
+0 = open
+1 = 2R
+2 = 20R
+3 = 200R
+4 = 2K
+5 = 20K
+6 = 200K
+7 = 2M
+LShoreAnalog High: temperature where LS analog o/p = 10V
+LShoreAnalog High: temperature where LS analog o/p = 0V
+LShoreRamp?: Boolean. 0 = False. 1 = True
+LShoreRampRate: 0.1 - 100. Rate of ramping (K/min) 
+LShoreTargetTemp: Setpoint
+
+**************************************************************************
+
+File Format:
+
+COL1: Block Temperature (K)
+COL2: Device Resistance (Ohms)
+
+**************************************************************************
+
+FILE STRING: Nb_W20C17_D03M_RVsT_20THz_20210422_153822_1_4_4_9_7.7_1_0.05_7.7_A_Au_2mm-dia-circle_Front

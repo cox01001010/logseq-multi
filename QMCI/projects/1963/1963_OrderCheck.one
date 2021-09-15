@@ -1,0 +1,129 @@
+<p>state: [[active]] job ref: [[1963]] description: [[QNbB-PTC]]<br />
+customer: Bar-Ilan University order date: 2021-02-22 quoted delivery: 2021-11-22 last edit: 2021-03-11 14:26<br />
+current action:</p>
+<h1 id="order-description-and-check">Order Description and Check</h1>
+<table>
+<thead>
+<tr class="header">
+<th>Item</th>
+<th>Description</th>
+<th>Ordered?</th>
+<th>Here?</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>PT Head</td>
+<td>Cryomech PT403</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Compressor</td>
+<td>air cooled</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Detector 1</td>
+<td>Nb</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Detector 2</td>
+<td>n/a</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cone 1</td>
+<td>tbd</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cone 2</td>
+<td>n/a</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Filter 1</td>
+<td>tbd</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Filter 2</td>
+<td>n/a</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amp 1</td>
+<td>TES readout</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amp 2</td>
+<td>n/a</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h1 id="customer-description-and-check">Customer Description and Check</h1>
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 83%" />
+<col style="width: 3%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Item</th>
+<th>Description</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>User Name</td>
+<td>[[silvia piperno]]</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Delivery Address</td>
+<td>Bar-Ilan University, Intl. Purchasing &amp; Import Dept., Ramat Gan 5290002 Israel, Tel: +972-3-534-9000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Application</td>
+<td>tbd</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Purchase Order #</td>
+<td>1449079 rev 0</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Other Notes</td>
+<td>customer requires custom exception, like the pyro.</td>
+<td></td>
+</tr>
+</tbody>
+</table>

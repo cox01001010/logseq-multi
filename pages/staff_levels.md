@@ -1,0 +1,25 @@
+- alw back on the books in april 2022
+- who is jeffrey?
+- richard has put his foot down on a year contract
+	- "this is a decision i have made"
+	- richard doesnt want to make people redundant again (brings up rycroft)
+	- ken responds by saying "i will have to make my own decisions"
+- adam joins
+- GP ~300k Rome ~100K
+- orbital microsystems - rjw has invested in
+- not profitable last year
+	- 70 k loss last year
+- we argue the point that only 2 people in the lab is stagnating
+	- aiming to fail
+- rjw doesnt want us to be run like a startup
+	- doesnt hold, we still have to plan to grow
+		- and invest in our future, otherwise we're all dead
+- richard concedes
+- [[2021-09-20]]
+	- adam tells me he has just gotten off the phone with richard:
+		- he was essentially bounced into having two lab employees because of ken's "threat"
+		- he now leaves it up to me and adam to decide whether this is something we want because with adams salary, and the two new people, we need 1M turnover pa
+		- we havent done this before
+		- adam is worried and conservative - doesnt want to go against ken but thinks richard is correct - we cant do this
+		- i argue that taking someone on a one year contract is just kicking the can down the road, that in one year the finances will not be any different and that we have to try this. If we have to let someone go in a few years, so be it, but we have to try and grow and become independent of ken, peter, richard, maybe even rashmi
+		-

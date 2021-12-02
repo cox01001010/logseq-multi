@@ -1,0 +1,6 @@
+- test
+-
+- 10:04 stuart hull in the lab
+	- tackled breadboard first - perfect
+	- detector assembly
+	- 11:50 go to interview with alw

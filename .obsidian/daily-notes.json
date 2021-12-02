@@ -1,5 +1,6 @@
 {
-  "folder": "dailies",
-  "template": "templates/daily-template",
-  "autorun": true
+  "folder": "journals",
+  "template": "",
+  "autorun": true,
+  "format": "YYYY_MM_DD"
 }

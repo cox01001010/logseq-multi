@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "2002c8979fe0aea0",
+    "id": "32f2a1e2ff6744c0",
     "type": "split",
     "children": [
       {
-        "id": "dc35c7df9a648baf",
+        "id": "920a37ef0da2601e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dailies/2021-09-14.md",
+            "file": "journals/2021_09_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "bdea7dc49970cf16",
+        "id": "0f04089e28d9d279",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dailies/2021-09-14.md",
+            "file": "journals/2021_09_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "e097263e3d0433bc",
+        "id": "6f10df170bf729e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailies/2021-09-14.md",
+            "file": "journals/2021_09_24.md",
             "mode": "source"
           }
         }
@@ -52,105 +52,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "180d4ba7719edc35",
-    "type": "split",
+    "id": "2b295fcc1118d6cc",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7e8c0f81175b1e51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca602c3a5025c61f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b636ec71e072ffb8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "18ca9402fa8b0b4e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e7ef05db534edc76",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#journal",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "859332158f1ff5fb",
-    "type": "split",
+    "id": "52305e39816af21c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6b9956eff8112db7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f370046bd984810",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3938cbf5a6f41181",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dailies/2021-09-14.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1c9ae494847b67d8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "dailies/2021-09-14.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "1c8d5683f6fe1119",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "journals/2021_09_24.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "e097263e3d0433bc",
+  "active": "6f10df170bf729e3",
   "lastOpenFiles": [
-    "dailies/2021-09-14.md",
-    "Recruitment_Summer2021.md",
-    "ETH_Zurich_InSb_Discussion.md",
-    "dailies/2021-09-13.md",
-    "templates/Cryogenic Log.md",
-    "QMCI/products/tk-cryostat-can-dimensions.md",
-    "1960_Schedule.md",
-    "lowen-bloods-2021-09-09.md",
-    "dailies/2021-09-09.md",
-    "dailies/2021-09-08.md"
+    "journals/2021_09_24.md",
+    "journals/2021_09_23 - Copy.md",
+    "journals/2021_09_23 - Copy (2).md",
+    "journals/2021_09_23.md",
+    "Personal/sse.md",
+    "journals/2021_09_20.md",
+    "journals/2021_09_18.md",
+    "journals/2021_09_19.md",
+    "journals/2021_09_17.md",
+    "journals/2021-09-17.md"
   ]
 }

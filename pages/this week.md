@@ -1,7 +1,12 @@
-# w/c [[2021-11-29]]
+- # w/c [[2021-11-29]]
 	- pyros
 	- diodes
 	- InSb
 	- rome
 	- dry systems
+# w/c [[2021-12-06]]
+- pyros
+- InSb
+- rome
+-
 - {{embed [[pma]]}}

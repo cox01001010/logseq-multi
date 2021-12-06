@@ -10,3 +10,6 @@
 	- ![image.png](../assets/image_1638357756381_0.png)
 - this can take 10 working days - need to call po before [[2021-12-11]] to make sure not charged too much
   SCHEDULED: <2021-12-06 Mon>
+# speed check @ [[2021-12-06]]
+	- post office before change
+	-

@@ -1,4 +1,5 @@
 - # w/c [[2021-11-29]]
+  collapsed:: true
 	- pyros
 	- diodes
 	- InSb
@@ -6,7 +7,7 @@
 	- dry systems
 # w/c [[2021-12-06]]
 - pyros
-- InSb
+- filter cutting
 - rome
 -
 - {{embed [[pma]]}}

@@ -5,7 +5,7 @@
 		  SCHEDULED: <2021-09-17 Fri>
 		- DONE [[1960]] carole wants to know filter sizes
 		  SCHEDULED: <2021-09-17 Fri>
-		- TODO [[1960]] photos
+		- DONE [[1960]] photos
 		- DONE [[1960]] t/c
 		  SCHEDULED: <2021-10-15 Fri>
 		- DONE 1788R MPG strip during interviews
@@ -18,7 +18,7 @@
 		- TODO rashmi
 	- TODO mpg
 	- TODO email leonardo to chase return
-	- TODO ^^1970^^ and 1976 and 1989 cut filters (1970 is priority)
+	- DONE ^^1970^^ and 1976 and 1989 cut filters (1970 is priority)
 	-
 	-
 - [[2021-11-29]]

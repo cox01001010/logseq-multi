@@ -14,10 +14,10 @@
 		  SCHEDULED: <2021-09-17 Fri>
 - [[2021-09-27]]
   collapsed:: true
-	- TODO ^^1960^^ rings to carole
-		- TODO rashmi
-	- TODO mpg
-	- TODO email leonardo to chase return
+	- DONE ^^1960^^ rings to carole
+		- DONE rashmi
+	- DONE mpg
+	- DONE email leonardo to chase return
 	- DONE ^^1970^^ and 1976 and 1989 cut filters (1970 is priority)
 	-
 	-

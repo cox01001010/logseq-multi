@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f2c3b5a45b3714",
+        "id": "920a37ef0da2601e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,19 +21,19 @@
         }
       },
       {
-        "id": "2334ff070e64ceec",
+        "id": "0f04089e28d9d279",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": true,
-            "unlinkedCollapsed": false
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
         }
       },
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_24.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,6 @@
   },
   "active": "6f10df170bf729e3",
   "lastOpenFiles": [
-    "journals/2021_12_08.md",
     "journals/2021_09_24.md",
     "journals/2021_09_23 - Copy.md",
     "journals/2021_09_23 - Copy (2).md",
@@ -116,6 +115,7 @@
     "journals/2021_09_20.md",
     "journals/2021_09_18.md",
     "journals/2021_09_19.md",
-    "journals/2021_09_17.md"
+    "journals/2021_09_17.md",
+    "journals/2021-09-17.md"
   ]
 }

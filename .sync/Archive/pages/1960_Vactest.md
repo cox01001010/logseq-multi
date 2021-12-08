@@ -1,4 +1,0 @@
-- part of [[1960]] project
-- first step is ensuring vacuum can is leak tight
-- [[1960_LeakTest_2021-09-27_i]]
-	-

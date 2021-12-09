@@ -8,8 +8,8 @@
 - # w/c [[2021-12-06]]
 	- pyros
 	- filter cutting
-		- 2000 INO
-		- 1971 SRON
+		- ~~2000 INO~~
+		- ~~1971 SRON~~
 		- 1993 SRON
 	- rome
 	- rtds

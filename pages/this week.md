@@ -1,5 +1,4 @@
 - # w/c [[2021-11-29]]
-  collapsed:: true
 	- pyros
 	- diodes
 	- InSb

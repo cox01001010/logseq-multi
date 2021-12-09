@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90632c39e39070ac",
+        "id": "b4f2c3b5a45b3714",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,19 +21,19 @@
         }
       },
       {
-        "id": "f2db71ebe8039451",
+        "id": "2334ff070e64ceec",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_15.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_08.md",
+            "file": "journals/2021_09_15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "6f10df170bf729e3",
   "lastOpenFiles": [
-    "journals/2021_12_08.md",
     "journals/2021_09_15.md",
+    "journals/2021_12_08.md",
     "journals/2021_09_24.md",
     "journals/2021_09_23 - Copy.md",
     "journals/2021_09_23 - Copy (2).md",

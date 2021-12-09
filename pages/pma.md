@@ -1,4 +1,5 @@
-# production priorities w/c [[2021-11-29]]
+- # production priorities w/c [[2021-11-29]]
+  collapsed:: true
 	- [[1960]] order of filters to carole
 	- ~~[[1960]] talk w/ julian about rome bending~~
 	  :LOGBOOK:

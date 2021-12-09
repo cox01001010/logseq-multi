@@ -11,7 +11,7 @@
 	  CLOCK: [2021-11-29 Mon 16:33:35]--[2021-11-29 Mon 16:33:49] =>  00:00:14
 	  :END:
 	- filter cutting
-		- [[1995]] - georgia tech - square - 2" 3THz
+		- ~~[[1995]] - georgia tech - square - 2" 3THz~~
 		- [[1996]] - georgia tech - square - 2" 6THz
 		- [[2000]] - ino - 3 x 10THz low pass filters  31.7mm
 		-

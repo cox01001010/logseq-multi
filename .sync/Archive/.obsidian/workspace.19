@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b29054bf0b605649",
+        "id": "44f1e63d5794cc1c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_10.md",
+            "file": "journals/2021_12_09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "a80909f55f5e27bf",
+        "id": "0f59f1ec6c97b27d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_10.md",
+            "file": "journals/2021_12_09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_12_10.md",
+            "file": "journals/2021_12_09.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2021_12_10.md",
+            "file": "journals/2021_12_09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,6 @@
   },
   "active": "6f10df170bf729e3",
   "lastOpenFiles": [
-    "journals/2021_12_10.md",
     "journals/2021_12_09.md",
     "journals/2021_12_08.md",
     "journals/2021_09_15.md",
@@ -116,6 +115,7 @@
     "journals/2021_09_23 - Copy (2).md",
     "journals/2021_09_23.md",
     "Personal/sse.md",
-    "journals/2021_09_20.md"
+    "journals/2021_09_20.md",
+    "journals/2021_09_18.md"
   ]
 }

@@ -4,7 +4,7 @@
 - TODO harness flanges
   SCHEDULED: <2021-12-10 Fri>
 - pyro
-	- 1855R - serial number 2500
-		- new detector:
-	- 1907R - serial number 2546
-		- new detector:
+	- 1855R
+		- detector:
+	- 1907R
+		- detector:

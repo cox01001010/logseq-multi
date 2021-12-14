@@ -1,63 +1,63 @@
 [{:block/name "\"c:",
-  :block/created-at 1639067768250,
-  :block/updated-at 1639067768250}
+  :block/created-at 1639471176654,
+  :block/updated-at 1639471176654}
  {:block/name "\"c:/users",
-  :block/created-at 1639067768256,
-  :block/updated-at 1639067768256}
+  :block/created-at 1639471176667,
+  :block/updated-at 1639471176667}
  {:block/name "\"c:/users/james cox",
-  :block/created-at 1639067768296,
-  :block/updated-at 1639067768296}
+  :block/created-at 1639471176731,
+  :block/updated-at 1639471176731}
  {:block/name "\"c:/users/james cox/qmc dropbox",
-  :block/created-at 1639067768303,
-  :block/updated-at 1639067768303}
+  :block/created-at 1639471176748,
+  :block/updated-at 1639471176748}
  {:block/name "\"c:/users/james cox/qmc dropbox/james cox",
-  :block/created-at 1639067768297,
-  :block/updated-at 1639067768297}
+  :block/created-at 1639471176734,
+  :block/updated-at 1639471176734}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share",
-  :block/created-at 1639067768303,
-  :block/updated-at 1639067768303}
+  :block/created-at 1639471176752,
+  :block/updated-at 1639471176752}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share/jobs",
-  :block/created-at 1639067768312,
-  :block/updated-at 1639067768312}
+  :block/created-at 1639471176780,
+  :block/updated-at 1639471176780}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share/jobs/1960_rome_srt",
-  :block/created-at 1639067768261,
-  :block/updated-at 1639067768261}
+  :block/created-at 1639471176671,
+  :block/updated-at 1639471176671}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share/jobs/1960_rome_srt/reports and analysis",
-  :block/created-at 1639067768303,
-  :block/updated-at 1639067768303}
+  :block/created-at 1639471176752,
+  :block/updated-at 1639471176752}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share/jobs/1960_rome_srt/reports and analysis/lenspoistions",
-  :block/created-at 1639067768276,
-  :block/updated-at 1639067768276}
+  :block/created-at 1639471176696,
+  :block/updated-at 1639471176696}
  {:block/name
   "\"c:/users/james cox/qmc dropbox/james cox/internal_share/jobs/1960_rome_srt/reports and analysis/lenspoistions/1960_lensposition.xlsx\"",
-  :block/created-at 1639067768277,
-  :block/updated-at 1639067768277}
+  :block/created-at 1639471176696,
+  :block/updated-at 1639471176696}
  {:block/name
   "../../../assets/1960_lenspositions_1638280736677_0.xlsx",
-  :block/created-at 1639067768252,
-  :block/updated-at 1639067768252}
+  :block/created-at 1639471176661,
+  :block/updated-at 1639471176661}
  {:block/name
   "../assets/a_strange_noise_that_seems_to_be_generated_from_inside_the_ntd_ge_bolometer_1632209991492_0.pdf",
   :block/created-at 1632238330731,
   :block/updated-at 1632238330731}
  {:block/name "../assets/image_1632323772069_0.png",
-  :block/created-at 1639067768283,
-  :block/updated-at 1639067768283}
+  :block/created-at 1639471176707,
+  :block/updated-at 1639471176707}
  {:block/name "../assets/image_1632496219856_0.png",
-  :block/created-at 1639067768286,
-  :block/updated-at 1639067768286}
+  :block/created-at 1639471176720,
+  :block/updated-at 1639471176720}
  {:block/name "../assets/video_of_figure.4_1632210054394_0.mp4",
   :block/created-at 1632238330730,
   :block/updated-at 1632238330730}
  {:block/name
   "0d5a47b5-ccf2-4ab8-be9b-73721906ecbc3323061239969716492.jpg",
-  :block/created-at 1639067768291,
-  :block/updated-at 1639067768291}
+  :block/created-at 1639471176727,
+  :block/updated-at 1639471176727}
  {:block/name "1060-2021-09-07",
   :block/created-at 1631695462173,
   :block/updated-at 1631695462173}
@@ -83,8 +83,8 @@
   :block/created-at 1631695462177,
   :block/updated-at 1631695462177}
  {:block/name "1788r",
-  :block/created-at 1639067768242,
-  :block/updated-at 1639067768242}
+  :block/created-at 1639471176633,
+  :block/updated-at 1639471176633}
  {:block/name "1813",
   :block/created-at 1631695462188,
   :block/updated-at 1631695462188}
@@ -135,8 +135,8 @@
   :block/created-at 1631695462185,
   :block/updated-at 1631695462185}
  {:block/name "1934 ",
-  :block/created-at 1639067768313,
-  :block/updated-at 1639067768313}
+  :block/created-at 1639471176784,
+  :block/updated-at 1639471176784}
  {:block/name "1934-stock",
   :block/created-at 1631695462187,
   :block/updated-at 1631695462187}
@@ -166,7 +166,7 @@
   :block/updated-at 1631695462194}
  {:block/name "1960",
   :block/created-at 1633519567744,
-  :block/updated-at 1639060615902}
+  :block/updated-at 1639131445208}
  {:block/name "1960_2021-02-26_chaseemail",
   :block/created-at 1631695462193,
   :block/updated-at 1631695462193}
@@ -231,8 +231,11 @@
   :block/created-at 1631695462185,
   :block/updated-at 1631695462185}
  {:block/name "1971 sron",
-  :block/created-at 1639067768296,
-  :block/updated-at 1639067768296}
+  :block/created-at 1639471176731,
+  :block/updated-at 1639471176731}
+ {:block/name "1971_sron",
+  :block/created-at 1639068820352,
+  :block/updated-at 1639068820577}
  {:block/name "1972",
   :block/created-at 1631695462182,
   :block/updated-at 1631695462182}
@@ -276,11 +279,11 @@
   :block/created-at 1631695462183,
   :block/updated-at 1631695462183}
  {:block/name "1995",
-  :block/created-at 1639067768291,
-  :block/updated-at 1639067768291}
+  :block/created-at 1639471176727,
+  :block/updated-at 1639471176727}
  {:block/name "1996",
-  :block/created-at 1639067768250,
-  :block/updated-at 1639067768250}
+  :block/created-at 1639471176653,
+  :block/updated-at 1639471176653}
  {:block/name "1k coooler testing.pdf",
   :block/created-at 1631695462196,
   :block/updated-at 1631695462196}
@@ -288,8 +291,11 @@
   :block/created-at 1631695462184,
   :block/updated-at 1631695462184}
  {:block/name "2000",
-  :block/created-at 1639067768273,
-  :block/updated-at 1639067768273}
+  :block/created-at 1639471176690,
+  :block/updated-at 1639471176690}
+ {:block/name "2000 ino",
+  :block/created-at 1639132526283,
+  :block/updated-at 1639132526283}
  {:block/name "2020",
   :block/created-at 1631695462195,
   :block/updated-at 1631695462195}
@@ -315,23 +321,23 @@
   :block/created-at 1631695462196,
   :block/updated-at 1631695462196}
  {:block/name "2021-01-07-12-41-29.png",
-  :block/created-at 1639067768299,
-  :block/updated-at 1639067768299}
+  :block/created-at 1639471176739,
+  :block/updated-at 1639471176739}
  {:block/name "2021-01-08-11-47-46%201.png",
-  :block/created-at 1639067768312,
-  :block/updated-at 1639067768312}
+  :block/created-at 1639471176780,
+  :block/updated-at 1639471176780}
  {:block/name "2021-01-08-13-50-54%201.png",
-  :block/created-at 1639067768283,
-  :block/updated-at 1639067768283}
+  :block/created-at 1639471176707,
+  :block/updated-at 1639471176707}
  {:block/name "2021-01-08-14-39-31%201.png",
-  :block/created-at 1639067768280,
-  :block/updated-at 1639067768280}
+  :block/created-at 1639471176702,
+  :block/updated-at 1639471176702}
  {:block/name "2021-01-08-15-18-05%201.png",
-  :block/created-at 1639067768302,
-  :block/updated-at 1639067768302}
+  :block/created-at 1639471176748,
+  :block/updated-at 1639471176748}
  {:block/name "2021-01-12-14-08-52.png",
-  :block/created-at 1639067768248,
-  :block/updated-at 1639067768248}
+  :block/created-at 1639471176645,
+  :block/updated-at 1639471176645}
  {:block/name "2021-01-21 2",
   :block/created-at 1631695462199,
   :block/updated-at 1631695462199}
@@ -561,38 +567,38 @@
   :block/created-at 1631695462183,
   :block/updated-at 1631695462183}
  {:block/name "2021-04-15-09-40-05.png",
-  :block/created-at 1639067768277,
-  :block/updated-at 1639067768277}
+  :block/created-at 1639471176696,
+  :block/updated-at 1639471176696}
  {:block/name "2021-04-15-09-41-08.png",
-  :block/created-at 1639067768268,
-  :block/updated-at 1639067768268}
+  :block/created-at 1639471176680,
+  :block/updated-at 1639471176680}
  {:block/name "2021-04-15-09-41-47.png",
-  :block/created-at 1639067768252,
-  :block/updated-at 1639067768252}
+  :block/created-at 1639471176661,
+  :block/updated-at 1639471176661}
  {:block/name "2021-04-15-09-42-25.png",
-  :block/created-at 1639067768272,
-  :block/updated-at 1639067768272}
+  :block/created-at 1639471176689,
+  :block/updated-at 1639471176689}
  {:block/name "2021-04-15-09-42-58.png",
-  :block/created-at 1639067768246,
-  :block/updated-at 1639067768246}
+  :block/created-at 1639471176643,
+  :block/updated-at 1639471176643}
  {:block/name "2021-04-15-10-01-35.png",
-  :block/created-at 1639067768277,
-  :block/updated-at 1639067768277}
+  :block/created-at 1639471176696,
+  :block/updated-at 1639471176696}
  {:block/name "2021-04-15-10-02-01.png",
-  :block/created-at 1639067768250,
-  :block/updated-at 1639067768250}
+  :block/created-at 1639471176652,
+  :block/updated-at 1639471176652}
  {:block/name "2021-04-15-10-02-26.png",
-  :block/created-at 1639067768253,
-  :block/updated-at 1639067768253}
+  :block/created-at 1639471176664,
+  :block/updated-at 1639471176664}
  {:block/name "2021-04-15-10-02-49.png",
-  :block/created-at 1639067768247,
-  :block/updated-at 1639067768247}
+  :block/created-at 1639471176644,
+  :block/updated-at 1639471176644}
  {:block/name "2021-04-15-10-03-16.png",
-  :block/created-at 1639067768242,
-  :block/updated-at 1639067768242}
+  :block/created-at 1639471176632,
+  :block/updated-at 1639471176632}
  {:block/name "2021-04-15-10-03-40.png",
-  :block/created-at 1639067768313,
-  :block/updated-at 1639067768313}
+  :block/created-at 1639471176785,
+  :block/updated-at 1639471176785}
  {:block/name "2021-04-28",
   :block/created-at 1619568000000,
   :block/updated-at 1619568000000}
@@ -646,7 +652,10 @@
   :block/updated-at 1639039076053}
  {:block/name "2021-12-09",
   :block/created-at 1639038394205,
-  :block/updated-at 1639067732724}
+  :block/updated-at 1639132489625}
+ {:block/name "2021-12-10",
+  :block/created-at 1639131556742,
+  :block/updated-at 1639132366898}
  {:block/name "2021-12-11",
   :block/created-at 1639180800000,
   :block/updated-at 1639180800000}
@@ -684,8 +693,8 @@
   :block/created-at 1631695462177,
   :block/updated-at 1631695462177}
  {:block/name "20211208_182655.jpg",
-  :block/created-at 1639067768277,
-  :block/updated-at 1639067768277}
+  :block/created-at 1639471176696,
+  :block/updated-at 1639471176696}
  {:block/name "2021_09_21 - copy",
   :block/created-at 1633519567733,
   :block/updated-at 1633519567733}
@@ -715,8 +724,8 @@
   :block/updated-at 1631695462191}
  {:block/name
   "82ae2b43-d540-4fc2-9b14-e2edd69475673486552164420995323.jpg",
-  :block/created-at 1639067768303,
-  :block/updated-at 1639067768303}
+  :block/created-at 1639471176748,
+  :block/updated-at 1639471176748}
  {:block/name "<% tp.date.now(\"yyyy-mm-dd\", -1) %>",
   :block/created-at 1631695462174,
   :block/updated-at 1631695462174}
@@ -754,8 +763,8 @@
   :block/created-at 1631695462168,
   :block/updated-at 1631695462168}
  {:block/name "aerospace information research institute ",
-  :block/created-at 1639067768290,
-  :block/updated-at 1639067768290}
+  :block/created-at 1639471176723,
+  :block/updated-at 1639471176723}
  {:block/name "af",
   :block/created-at 1632756123630,
   :block/updated-at 1632756179768}
@@ -946,54 +955,54 @@
   :block/created-at 1631695462168,
   :block/updated-at 1631695462168}
  {:block/name "c:/users/james cox",
-  :block/created-at 1639067768279,
-  :block/updated-at 1639067768279}
+  :block/created-at 1639471176700,
+  :block/updated-at 1639471176700}
  {:block/name "c:/users/james cox/dropbox",
-  :block/created-at 1639067768279,
-  :block/updated-at 1639067768279}
+  :block/created-at 1639471176700,
+  :block/updated-at 1639471176700}
  {:block/name "c:/users/james cox/dropbox/qmc_admin",
-  :block/created-at 1639067768256,
-  :block/updated-at 1639067768256}
+  :block/created-at 1639471176668,
+  :block/updated-at 1639471176668}
  {:block/name "c:/users/james cox/dropbox/qmc_admin/job_summary.xlsm",
   :block/created-at 1631695462183,
   :block/updated-at 1631695462183}
  {:block/name "c:/users/james cox/onedrive - qmc instruments ltd",
-  :block/created-at 1639067768300,
-  :block/updated-at 1639067768300}
+  :block/created-at 1639471176741,
+  :block/updated-at 1639471176741}
  {:block/name
   "c:/users/james cox/onedrive - qmc instruments ltd/sales",
-  :block/created-at 1639067768255,
-  :block/updated-at 1639067768255}
+  :block/created-at 1639471176666,
+  :block/updated-at 1639471176666}
  {:block/name
   "c:/users/james cox/onedrive - qmc instruments ltd/sales/quotes",
-  :block/created-at 1639067768314,
-  :block/updated-at 1639067768314}
+  :block/created-at 1639471176785,
+  :block/updated-at 1639471176785}
  {:block/name
   "c:/users/james cox/onedrive - qmc instruments ltd/sales/quotes/dahengenquiry_2021-01-07",
-  :block/created-at 1639067768271,
-  :block/updated-at 1639067768271}
+  :block/created-at 1639471176682,
+  :block/updated-at 1639471176682}
  {:block/name
   "c:/users/james cox/onedrive - qmc instruments ltd/sales/quotes/dahengenquiry_2021-01-07/zhiwaquote-ds1009-pt-nbtes.pdf",
-  :block/created-at 1639067768253,
-  :block/updated-at 1639067768253}
+  :block/created-at 1639471176664,
+  :block/updated-at 1639471176664}
  {:block/name "c:/users/jamesc~1",
-  :block/created-at 1639067768278,
-  :block/updated-at 1639067768278}
+  :block/created-at 1639471176698,
+  :block/updated-at 1639471176698}
  {:block/name "c:/users/jamesc~1/appdata",
-  :block/created-at 1639067768298,
-  :block/updated-at 1639067768298}
+  :block/created-at 1639471176738,
+  :block/updated-at 1639471176738}
  {:block/name "c:/users/jamesc~1/appdata/local",
-  :block/created-at 1639067768298,
-  :block/updated-at 1639067768298}
+  :block/created-at 1639471176738,
+  :block/updated-at 1639471176738}
  {:block/name "c:/users/jamesc~1/appdata/local/temp",
-  :block/created-at 1639067768243,
-  :block/updated-at 1639067768243}
+  :block/created-at 1639471176636,
+  :block/updated-at 1639471176636}
  {:block/name "c:/users/jamesc~1/appdata/local/temp/msohtmlclip1",
-  :block/created-at 1639067768248,
-  :block/updated-at 1639067768248}
+  :block/created-at 1639471176645,
+  :block/updated-at 1639471176645}
  {:block/name "c:/users/jamesc~1/appdata/local/temp/msohtmlclip1/01",
-  :block/created-at 1639067768253,
-  :block/updated-at 1639067768253}
+  :block/created-at 1639471176664,
+  :block/updated-at 1639471176664}
  {:block/name
   "c:/users/jamesc~1/appdata/local/temp/msohtmlclip1/01/clip_image002.gif",
   :block/created-at 1631695462178,
@@ -1118,8 +1127,8 @@
   :block/created-at 1631695462181,
   :block/updated-at 1631695462181}
  {:block/name "d",
-  :block/created-at 1639067768256,
-  :block/updated-at 1639067768256}
+  :block/created-at 1639471176668,
+  :block/updated-at 1639471176668}
  {:block/name "d:",
   :block/created-at 1631695462172,
   :block/updated-at 1631695462172}
@@ -1158,26 +1167,26 @@
   :block/created-at 1631695462174,
   :block/updated-at 1631695462174}
  {:block/name "dailies",
-  :block/created-at 1639067768299,
-  :block/updated-at 1639067768299}
+  :block/created-at 1639471176741,
+  :block/updated-at 1639471176741}
  {:block/name "dailies/2021-01-12-09-47-17.png",
-  :block/created-at 1639067768256,
-  :block/updated-at 1639067768256}
+  :block/created-at 1639471176668,
+  :block/updated-at 1639471176668}
  {:block/name "dailies/2021-01-14-13-26-58.png",
-  :block/created-at 1639067768307,
-  :block/updated-at 1639067768307}
+  :block/created-at 1639471176760,
+  :block/updated-at 1639471176760}
  {:block/name "dailies/2021-01-14-13-28-41.png",
-  :block/created-at 1639067768256,
-  :block/updated-at 1639067768256}
+  :block/created-at 1639471176668,
+  :block/updated-at 1639471176668}
  {:block/name "dailies/2021-01-14-13-31-34.png",
-  :block/created-at 1639067768311,
-  :block/updated-at 1639067768311}
+  :block/created-at 1639471176777,
+  :block/updated-at 1639471176777}
  {:block/name "dailies/2021-01-14-13-32-23.png",
-  :block/created-at 1639067768283,
-  :block/updated-at 1639067768283}
+  :block/created-at 1639471176708,
+  :block/updated-at 1639471176708}
  {:block/name "dailies/2021-01-14-13-32-51.png",
-  :block/created-at 1639067768250,
-  :block/updated-at 1639067768250}
+  :block/created-at 1639471176653,
+  :block/updated-at 1639471176653}
  {:block/name "daily-template",
   :block/created-at 1631695462165,
   :block/updated-at 1631695462165}
@@ -1358,8 +1367,8 @@
   :block/created-at 1631695462174,
   :block/updated-at 1631695462174}
  {:block/name "favorites",
-  :block/created-at 1639067768240,
-  :block/updated-at 1639067768240}
+  :block/created-at 1639471176619,
+  :block/updated-at 1639471176619}
  {:block/name "feb 10th, 2021",
   :block/created-at 1612915200000,
   :block/updated-at 1612915200000}
@@ -1508,8 +1517,8 @@
   :block/created-at 1631695462197,
   :block/updated-at 1631695462197}
  {:block/name "interesting",
-  :block/created-at 1639067768275,
-  :block/updated-at 1639067768275}
+  :block/created-at 1639471176693,
+  :block/updated-at 1639471176693}
  {:block/name "interesting notes on obsidian",
   :block/created-at 1631695462179,
   :block/updated-at 1631695462179}
@@ -1721,17 +1730,17 @@
   :block/created-at 1631695462171,
   :block/updated-at 1631695462171}
  {:block/name "mailto:1.5w@4.2k",
-  :block/created-at 1639067768273,
-  :block/updated-at 1639067768273}
+  :block/created-at 1639471176690,
+  :block/updated-at 1639471176690}
  {:block/name "mailto:cox01001010@outlook.com",
-  :block/created-at 1639067768297,
-  :block/updated-at 1639067768297}
+  :block/created-at 1639471176733,
+  :block/updated-at 1639471176733}
  {:block/name "mailto:e.hendry@exeter.ac.uk",
-  :block/created-at 1639067768304,
-  :block/updated-at 1639067768304}
+  :block/created-at 1639471176752,
+  :block/updated-at 1639471176752}
  {:block/name "mailto:k.wood@terahertz.co.uk",
-  :block/created-at 1639067768297,
-  :block/updated-at 1639067768297}
+  :block/created-at 1639471176733,
+  :block/updated-at 1639471176733}
  {:block/name "mally",
   :block/created-at 1631695462166,
   :block/updated-at 1631695462166}
@@ -2136,7 +2145,7 @@
   :block/updated-at 1631695462169}
  {:block/name "pma",
   :block/created-at 1638266502067,
-  :block/updated-at 1639060683273}
+  :block/updated-at 1639068304998}
  {:block/name "po 1449079 1.pdf",
   :block/created-at 1631695462185,
   :block/updated-at 1631695462185}
@@ -2264,8 +2273,8 @@
   :block/created-at 1631695462182,
   :block/updated-at 1631695462182}
  {:block/name "sade",
-  :block/created-at 1639067768275,
-  :block/updated-at 1639067768275}
+  :block/created-at 1639471176694,
+  :block/updated-at 1639471176694}
  {:block/name "sade_period",
   :block/created-at 1631695462165,
   :block/updated-at 1631695462165}
@@ -2447,8 +2456,8 @@
   :block/created-at 1631695462197,
   :block/updated-at 1631695462197}
  {:block/name "sp",
-  :block/created-at 1639067768286,
-  :block/updated-at 1639067768286}
+  :block/created-at 1639471176720,
+  :block/updated-at 1639471176720}
  {:block/name "spectrometer",
   :block/created-at 1631695462197,
   :block/updated-at 1631695462197}
@@ -2507,11 +2516,11 @@
   :block/created-at 1631695462190,
   :block/updated-at 1631695462190}
  {:block/name "this week",
-  :block/created-at 1638266444450,
-  :block/updated-at 1639060666749}
+  :block/created-at 1639471176678,
+  :block/updated-at 1639471176678}
  {:block/name "thisweek",
   :block/created-at 1631695462190,
-  :block/updated-at 1631695462190}
+  :block/updated-at 1639132590831}
  {:block/name "thz",
   :block/created-at 1631695462192,
   :block/updated-at 1631695462192}
@@ -2630,8 +2639,8 @@
   :block/created-at 1631695462173,
   :block/updated-at 1631695462173}
  {:block/name "zhiwaquote-ds1009-pt-nbtes.pdf#page1v ",
-  :block/created-at 1639067768279,
-  :block/updated-at 1639067768279}
+  :block/created-at 1639471176700,
+  :block/updated-at 1639471176700}
  {:block/name "zotero for bib management",
   :block/created-at 1631695462192,
   :block/updated-at 1631695462192}
@@ -2751,14 +2760,14 @@
   :block/created-at 1631695462199,
   :block/updated-at 1631695462199}
  {:block/name "‪file/",
-  :block/created-at 1639067768314,
-  :block/updated-at 1639067768314}
+  :block/created-at 1639471176785,
+  :block/updated-at 1639471176785}
  {:block/name "‪file:/",
-  :block/created-at 1639067768250,
-  :block/updated-at 1639067768250}
+  :block/created-at 1639471176653,
+  :block/updated-at 1639471176653}
  {:block/name "‪file://",
-  :block/created-at 1639067768295,
-  :block/updated-at 1639067768295}
+  :block/created-at 1639471176730,
+  :block/updated-at 1639471176730}
  {:block/name "‪file:///c:/terminal/admin/rvs_systems.xlsx",
-  :block/created-at 1639067768251, 
-  :block/updated-at 1639067768251}]
+  :block/created-at 1639471176657, 
+  :block/updated-at 1639471176657}]

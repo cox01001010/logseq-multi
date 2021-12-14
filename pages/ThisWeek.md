@@ -16,3 +16,5 @@ collapsed:: true
 	- rtds
 	-
 - {{embed [[pma]]}}
+- [[1960]] filter available will be bp = lp filter
+-

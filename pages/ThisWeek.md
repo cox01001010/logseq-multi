@@ -16,7 +16,13 @@
 	- rtds
 	-
 # w/c [[2021-12-13]]
-	-
+	- mpg ship
+	- mpg amp
+	- dry systems
+		- diode wiring x 3
+		- detectors
+		- cones
+		-
 - {{embed [[pma]]}}
 - [[1960]] filter available will be bp = lp filter
 - 2/3 week of january

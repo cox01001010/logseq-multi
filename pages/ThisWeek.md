@@ -1,11 +1,11 @@
-# w/c [[2021-11-29]]
-collapsed:: true
+- w/c [[2021-11-29]]
+  collapsed:: true
 	- pyros
 	- diodes
 	- InSb
 	- rome
 	- dry systems
-- # w/c [[2021-12-06]]
+- w/c [[2021-12-06]]
   collapsed:: true
 	- pyros
 	- filter cutting
@@ -14,6 +14,8 @@ collapsed:: true
 		- 1993 SRON
 	- rome
 	- rtds
+	-
+# w/c [[2021-12-13]]
 	-
 - {{embed [[pma]]}}
 - [[1960]] filter available will be bp = lp filter

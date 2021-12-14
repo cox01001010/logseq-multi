@@ -22,6 +22,7 @@
 	-
 	-
 - [[2021-11-29]]
+  collapsed:: true
 	- #pma
 		- [[1960]] order of filters to carole
 		- [[1960]] talk w/ julian about rome bending

@@ -17,4 +17,5 @@ collapsed:: true
 	-
 - {{embed [[pma]]}}
 - [[1960]] filter available will be bp = lp filter
+- 2/3 week of january
 -
